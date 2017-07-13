@@ -1,0 +1,6 @@
+北美服务器
+密码：GMavwtmO4jY0
+端口：27684
+Bt-Panel: http://45.62.104.192:8888
+username: admin
+password: b7f31b48   //zhp3607211993
